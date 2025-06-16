@@ -1,0 +1,141 @@
+
+*{margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    }
+
+    body{ background-color: white;}
+
+
+      
+header>img { margin-left: 16%;
+margin-top: 4vh;}
+
+.principal {
+    height: 94vh;
+    background-repeat: no-repeat;
+    background-image: url(home-banner.jpg.webp)
+   
+}
+
+.rodape {
+    height: 8.5vh;
+    background-color: rgb(0, 0, 0, 50%);
+    display: flex;
+}
+    
+.logo {
+    position: relative;
+    left: 150px;
+    top: 25px;
+}
+.home{
+    position: relative;
+    left: 770px;
+    top: 30px;
+    color: white;
+    margin-left: 40px;
+    
+    
+}
+
+.texthome {
+    color: white;
+    text-decoration: none;
+    font: small-caption;
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+    vertical-align: top;
+    max-width: 600px;
+    padding: 40px;
+    background-color:black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    top: 250px;
+    left: 650px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color:white;
+    margin-bottom: 20px;
+}
+
+.descrição {
+    font-size: 1.1rem;
+    color:white;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    top: 100px;
+}
+
+.explore-btn {
+    background-color: yellow;
+    color: black;
+    border: none;
+    padding: 7px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.explore-btn:hover {
+    background-color: yellow;
+}
+
+.gallery {
+    text-align: center;
+}
+.btn {
+    background-color: yellow;
+    width: 178px;
+    height: 40px;
+    position: relative;
+    left: 850px;
+    bottom: 20px;
+}
+.explore {
+    padding-left: 20px;
+}
+.hover {
+    margin: 0px 0px 8px;
+}
+.container {
+    padding-left: 200px;
+}
+.feedback {
+    background-color: yellow;
+    width: 1350px;
+    height: 513px;
+}
+.quadrado {
+    padding-left: 150px;
+}
+.feedback_texto {
+    padding-left: 350px;
+    padding-top: 150px;
+}
+.titulo_texto {
+    font: 36px 'Poppins, sans-serif';
+}
+.texto {
+    padding-top: 15px;
+}
+.titulo3 {
+    padding-left: 900px;
+    padding-top: 150px;
+}
+.servicos {
+    text-align: center;
+    border: 1px solid #eeeeee;
+    padding: 40px;
+    margin-bottom: 30px;
+    width: 360px;
+    height: 201px;
+}
+
